@@ -2,11 +2,17 @@ Title: CRT Lanaudière Bus (MonTransit)
 ----------
 Short description: CRT Lanaudière bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from December 1, 2014 to September 6, 2020.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/VIHPFk
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds CRT Lanaudière bus information to MonTransit BETA.
+
+CRT Lanaudière serves D'Autray, Joliette, L'Assomption, Matawinie, Montcalm and Les Moulins.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 
