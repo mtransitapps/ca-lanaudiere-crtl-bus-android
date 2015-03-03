@@ -3,13 +3,4 @@
     <integer name="gtfs_rts_db_version">20141033</integer>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_lanaudiere_crtl_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
-    <integer name="gtfs_rts_agency_type">3</integer>
-    <bool name="gtfs_rts_schedule_available">true</bool>
-    <bool name="gtfs_rts_frequency_available">false</bool> <!-- no frequencies -->
-    <string name="gtfs_rts_timezone">America/Montreal</string>
-    <string name="gtfs_rts_area_min_lat">45.5896918011</string>
-    <string name="gtfs_rts_area_max_lat">46.6840634802</string>
-    <string name="gtfs_rts_area_min_lng">-74.2264320002</string>
-    <string name="gtfs_rts_area_max_lng">-73.1705423597</string>
-    <string name="gtfs_rts_color">0058AD</string>
 </resources>
