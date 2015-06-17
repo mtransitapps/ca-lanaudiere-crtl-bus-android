@@ -5,7 +5,7 @@ Autobus CRT Lanaudière pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 1 Décembre 2014 au 6 Septembre 2020.
+Horaires du 1 Décembre 2014 au 20 Juin 2015.
 ----------
 Full description:
 Cette application ajoute les informations des autobus CRT Lanaudière à MonTransit.
