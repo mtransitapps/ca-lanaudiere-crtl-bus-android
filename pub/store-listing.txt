@@ -5,7 +5,7 @@ CRT Lanaudière buses for MonTransit
 Schedule…
 ----------
 What's new in this version?:
-Schedule from December 25, 2014 to September 6, 2020.
+Schedule from June 21, 2015 to September 6, 2020.
 ----------
 Full description:
 This application adds CRT Lanaudière buses information to MonTransit.
