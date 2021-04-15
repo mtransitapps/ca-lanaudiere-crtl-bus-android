@@ -1,4 +1,4 @@
-# CRT Lanaudière Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# CRT Lanaudière Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android) [ARCHIVED]
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-lanaudiere-crtl-bus-android/master/pub/hi-res-app-icon.png"/>
 
